@@ -1,3 +1,3 @@
 # ds_animation
 
-[a link](https://Harshit221.github.io/lightning_bolt/#/)
+[here is live demo](https://Harshit221.github.io/lightning_bolt/#/)
